@@ -1,0 +1,14 @@
+Course,Num_Prerequisites,Unlocks_Others,Betweenness,Entry_Level
+BABI2500,3,2,0.0227,False
+BABI1100,0,3,0.0,True
+BABI1600,0,2,0.0,True
+BABI2200,1,2,0.0,False
+BABI4000,1,0,0.0,False
+BABI3000,0,1,0.0,True
+BABI4100,0,0,0.0,True
+BABI3100,0,0,0.0,True
+BABI3500,4,0,0.0,False
+BABI3005,0,1,0.0,True
+BABI2700,1,0,0.0,False
+BABI4005,1,0,0.0,False
+BABI9005,0,0,0.0,True
