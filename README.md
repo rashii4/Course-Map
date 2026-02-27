@@ -4,15 +4,15 @@
 
 
 
-\# BABI4005 – Assignment 4  
+BABI4005 – Assignment 4
 
-\## Scraping \& Unstructured Data: BABI Course Prerequisite Network
-
-
+Scraping \& Unstructured Data: BABI Course Prerequisite Network
 
 
 
-\### Project Overview
+
+
+Project Overview
 
 
 
@@ -20,7 +20,7 @@ This project analyzes the prerequisite structure of BABI (Business Analytics \& 
 
 
 
-https://www.bcit.ca/course\_subjects/business-analytics-business-intelligence-babi/ 
+https://www.bcit.ca/course\_subjects/business-analytics-business-intelligence-babi/
 
 
 
@@ -34,7 +34,7 @@ The goal was to convert unstructured HTML content into meaningful analytical ins
 
 
 
-\### Methods
+Methods
 
 
 
@@ -48,9 +48,9 @@ The project was completed in the following stages:
 
 3\. Built a directed graph using NetworkX where:
 
-&nbsp;  - Nodes represent courses
+   - Nodes represent courses
 
-&nbsp;  - Directed edges represent prerequisite relationships
+   - Directed edges represent prerequisite relationships
 
 4\. Applied centrality metrics to analyze structural importance within the curriculum.
 
@@ -62,15 +62,15 @@ The project was completed in the following stages:
 
 
 
-\### Key Findings
+Key Findings
 
 
 
-\- \*\*BABI3500\*\* requires the highest number of prerequisites (4), making it the most knowledge-intensive course.
+\- BABI3500 requires the highest number of prerequisites (4), making it the most knowledge-intensive course.
 
-\- \*\*BABI1100\*\* unlocks most other courses, functioning as a foundational course within the program.
+\- BABI1100 unlocks most other courses, functioning as a foundational course within the program.
 
-\- \*\*BABI2500\*\* has the highest betweenness centrality, acting as a structural bottleneck in the curriculum.
+\- BABI2500 has the highest betweenness centrality, acting as a structural bottleneck in the curriculum.
 
 \- Multiple entry-level courses exist, indicating flexible starting points within the program.
 
@@ -80,7 +80,7 @@ The project was completed in the following stages:
 
 
 
-\### Tools \& Libraries Used
+Tools \& Libraries Used
 
 
 
@@ -102,7 +102,7 @@ The project was completed in the following stages:
 
 
 
-\### Conclusion
+Conclusion
 
 
 
