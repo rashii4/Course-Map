@@ -4,15 +4,15 @@
 
 
 
-BABI4005 – Assignment 4
+## BABI4005 – Assignment 4
 
-Scraping \& Unstructured Data: BABI Course Prerequisite Network
-
-
+### Scraping \& Unstructured Data: BABI Course Prerequisite Network
 
 
 
-Project Overview
+
+
+### Project Overview
 
 
 
@@ -34,7 +34,7 @@ The goal was to convert unstructured HTML content into meaningful analytical ins
 
 
 
-Methods
+### Methods
 
 
 
@@ -62,7 +62,7 @@ The project was completed in the following stages:
 
 
 
-Key Findings
+### Key Findings
 
 
 
@@ -80,7 +80,7 @@ Key Findings
 
 
 
-Tools \& Libraries Used
+### Tools \& Libraries Used
 
 
 
@@ -102,7 +102,7 @@ Tools \& Libraries Used
 
 
 
-Conclusion
+### Conclusion
 
 
 
